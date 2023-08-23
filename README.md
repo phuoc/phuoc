@@ -1,5 +1,3 @@
-## Hello there 👋
-
 ### What I do:
 [![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,sass,java&perline=3)](https://skillicons.dev)
 
