@@ -1,5 +1,5 @@
 ### What I do:
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,sass,java&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,react,ts,css,sass,java&perline=3)](https://skillicons.dev)
 
 ### Tools:
 
