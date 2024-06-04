@@ -13,7 +13,7 @@ alias ch="git checkout"
 alias chh="git checkout -"
 alias chd="git checkout develop"
 
-alias gl="git log --pretty="%C(Red)%h %C(Yellow)%ad (%C(Green)%cr%C(reset))%x09 %C(Blue)%an: %C(reset)%s" --date=short"
+alias gl="git log --pretty="%C(Red)%h %C(Yellow)%ad (%C(Green)%cr%C(reset))%x09 %C(Blue)%an: %C(reset)%s" --date=short -n 20"
 alias gll="git log --oneline"
 alias glg="git log --oneline --graph"
 
