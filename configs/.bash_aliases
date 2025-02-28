@@ -19,6 +19,8 @@ alias glg="git log --oneline --graph"
 
 alias st="git status"
 alias fe="git fetch"
+alias fa="git fetch --all --prune --tags"
+alias fr="git fetch --all --prune --tags && git rebase"
 alias pp="git pull"
 alias gpf="git push --force"
 
