@@ -1,5 +1,5 @@
 ### What I do:
-[![My Skills](https://skillicons.dev/icons?i=react,ts,sass,java,py,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,sass,java,kotlin,sql&perline=6)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,mongodb,postman,figma,next&perline=6)](https://skillicons.dev)
 
