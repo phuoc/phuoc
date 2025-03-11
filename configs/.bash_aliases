@@ -16,6 +16,8 @@ alias chd="git checkout develop"
 alias gll='git log --pretty="%C(Red)%h %C(Yellow)%ad (%C(Green)%cr%C(reset))%x09 %C(Blue)%an: %C(reset)%s" --date=short -n 20'
 alias glo="git log --oneline"
 alias glg="git log --oneline --graph"
+# Plasser git-log-compact perl-scriptet i f.eks. /usr/local/bin
+alias gl="git-log-compact"
 
 alias st="git status"
 alias fe="git fetch"
